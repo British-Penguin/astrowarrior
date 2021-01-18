@@ -1,0 +1,2 @@
+com/britishpenguin/astrowarrior/desktop/DesktopLauncher.java
+ com.britishpenguin.astrowarrior.desktop.DesktopLauncher
